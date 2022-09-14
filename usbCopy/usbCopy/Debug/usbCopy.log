@@ -1,0 +1,4 @@
+﻿  usbCopy.cpp
+C:\Users\משתמש\Desktop\my_projects\usbCopy\usbCopy\helper.h(26,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\my_projects\usbCopy\usbCopy\helper.h(74,19): warning C4018: '<': signed/unsigned mismatch
+  usbCopy.vcxproj -> C:\Users\משתמש\Desktop\my_projects\usbCopy\Debug\usbCopy.exe
